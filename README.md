@@ -5,4 +5,5 @@ A SaaS company seeks to uncover what drives its clients to renew their subscript
 3. For clients that renewed their subscriptions, what was the average inflation rate when their subscriptions were renewed?
 
 Executed on 08Jul25
+
 [Link](https://app.datacamp.com/learn/projects/2474) to project in DataCamp
